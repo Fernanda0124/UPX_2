@@ -10,8 +10,8 @@
 - Atender os Objetivos de Desenvolvimento Sustentável, mais especificamente a ODS 12, qie trata-se de assegurar padrões de produção e de consumo sustentáveis
 
 <div align="center">
-    <img src="Images/ods12.png" alt="ODS12" width:200px />
-  </div>
+  <img src="Images/ods12.png" alt="ODS12" width:100px />
+</div>
 
 - Reduzir produção de resíduos orgânicos e de gases efeito estufa, além de evitar o desperdício e a compra excessiva
 -----
