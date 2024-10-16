@@ -1,3 +1,9 @@
+<style type="text/css">
+    body {
+        display: flex;
+        align-items: center;
+    }
+</style>
 # Usina de Projetos Experimentais - UPX
 - Disciplina de desenvolvimento de projetos, realizada na faculdade na [Newton Paiva](https://newtonpaiva.br), segundo semestre
 - Equipe de desenvolvimento:
